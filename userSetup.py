@@ -8,4 +8,3 @@ import controllers
 import constraints
 import createIK
 import setAttributes
-import MotionSketch
