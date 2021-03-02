@@ -1,4 +1,4 @@
-MAYA AUTORIGGER
+**MAYA AUTORIGGER**
 
 A tool for Maya which allows you to set up a human biped rig step-by-step using a friendly interface. Demo video included
 
